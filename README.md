@@ -110,11 +110,7 @@ flutter pub get
 
 ### 3. Configure API Keys
 
-Create a `.env` file in the root directory (copy from `.env.example`):
-
-```bash
-cp .env.example .env
-```
+Create a `.env` file in the root directory :
 
 Add your API keys to the `.env` file:
 
@@ -168,23 +164,6 @@ Or use your IDE's run button.
 ### Map View
 [Screenshot of integrated map]
 
-## Performance Optimizations
-
-- **Image Caching**: Network images are cached for faster loading
-- **API Response Caching**: Place data cached locally with Hive
-- **Reduced API Radius**: Optimized to 3km for faster responses
-- **Timeout Management**: 12-15 second timeouts prevent hanging
-- **Smart Logging**: Debug logs only in development mode
-
-## Code Quality Features
-
-- **Clean Architecture**: Separation of concerns across layers
-- **Reusable Components**: Common widgets for loading, errors, and empty states
-- **Type Safety**: Strong typing throughout the codebase
-- **Error Handling**: Comprehensive try-catch blocks and null safety
-- **Professional Logging**: Structured logging utility instead of print statements
-- **No Hardcoded Values**: All configs in constants file
-
 ## Known Limitations
 
 - Overpass API can be slow during peak hours (10+ seconds)
@@ -224,10 +203,6 @@ flutter build ios --release
 ## Author
 
 Developed by Rudra Patel
-
-## License
-
-This project is part of a technical assignment/interview process.
 
 ## Acknowledgments
 
