@@ -1,4 +1,4 @@
-# Safarix - Smart Travel Companion
+# Safarix - Travel Companion
 
 A Flutter-based mobile application that helps travelers discover tourist attractions, view detailed information, and explore places on interactive maps. Built with clean architecture principles and modern Flutter practices.
 
