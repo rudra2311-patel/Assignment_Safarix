@@ -150,19 +150,22 @@ Or use your IDE's run button.
 
 ## Screenshots
 
-[Add your app screenshots here]
+  <img width="541" height="1132" alt="image" src="https://github.com/user-attachments/assets/75e5724a-a9bf-44fd-b481-989822534dcd" />
 
-### Home Screen
-[Screenshot of home/search screen]
 
-### Places List
-[Screenshot showing list of tourist attractions]
+  <img width="541" height="1117" alt="image" src="https://github.com/user-attachments/assets/fbbc3ecf-1aa1-4b66-90d4-62285f595b73" />
 
-### Place Details
-[Screenshot of detailed place view with image]
+  <img width="539" height="1130" alt="image" src="https://github.com/user-attachments/assets/d1907bb4-7377-4e2f-b4ae-d54009bc41e2" />
 
-### Map View
-[Screenshot of integrated map]
+  <img width="540" height="1119" alt="image" src="https://github.com/user-attachments/assets/51309d12-d01a-4118-975d-dffca205f09f" />
+
+
+  <img width="554" height="1129" alt="image" src="https://github.com/user-attachments/assets/47d79638-2e9b-45c1-a307-e88bb9fd5735" />
+
+  <img width="549" height="1128" alt="image" src="https://github.com/user-attachments/assets/2a09dac5-8474-426a-bfa5-d76a4cb91208" />
+  
+  <img width="513" height="917" alt="image" src="https://github.com/user-attachments/assets/6344d002-f905-430f-8931-1553bd1ac732" />
+
 
 ## Known Limitations
 
